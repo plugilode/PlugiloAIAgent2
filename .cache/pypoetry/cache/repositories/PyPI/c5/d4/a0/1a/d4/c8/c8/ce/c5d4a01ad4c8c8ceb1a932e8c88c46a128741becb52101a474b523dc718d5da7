@@ -1,0 +1,1 @@
+9999999999{"name": "sgmllib3k", "version": "1.0.0", "summary": "Py3k port of sgmllib.", "requires_dist": null, "requires_python": null, "files": [{"file": "sgmllib3k-1.0.0.tar.gz", "hash": "sha256:7868fb1c8bfa764c1ac563d3cf369c381d1325d36124933a726f29fcdaa812e9"}], "yanked": false, "_cache_version": "2.0.0"}
